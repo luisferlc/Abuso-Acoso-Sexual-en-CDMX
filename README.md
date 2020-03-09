@@ -6,6 +6,6 @@ Mapeo de los puntos de abuso y acoso sexual en CDMX, basado en las denuncias ent
 Link de la aplicación: http://shixiong3.pythonanywhere.com/
 
 - Idea tomada de https://github.com/plotly/dash-sample-apps/tree/master/apps/dash-uber-rides-demo
-- CSS y Style reciclados del mismo proyecto.
+- CSS y Style tomados y modificados del mismo proyecto.
 
 
