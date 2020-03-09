@@ -3,6 +3,8 @@ Mapeo de los puntos de abuso y acoso sexual en CDMX, basado en las denuncias ent
 
 <img src="https://github.com/luisferlc/Abuso-Acoso-Sexual-en-CDMX/blob/master/captura.JPG">
 
+Link de la aplicación: http://shixiong3.pythonanywhere.com/
+
 - Idea tomada de https://github.com/plotly/dash-sample-apps/tree/master/apps/dash-uber-rides-demo
 - CSS y Style reciclados del mismo proyecto.
 
